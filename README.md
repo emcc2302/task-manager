@@ -34,6 +34,10 @@ task-manager/
 └── README.md
 ```
 
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/6a37a705-21ef-4e06-b0f4-dea9a32de27e" />
+
+
+
 ## Setup & Running
 
 ### Prerequisites
