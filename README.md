@@ -2,7 +2,7 @@
 
 A simple full-stack task management app built with React and Node.js/Express.
 
-## Stack
+## Stack😄
 
 - **Frontend**: React (Create React App)
 - **Backend**: Node.js + Express
